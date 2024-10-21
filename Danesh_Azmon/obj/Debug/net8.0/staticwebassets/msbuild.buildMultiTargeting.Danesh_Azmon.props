@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Danesh_Azmon.props" />
+</Project>
