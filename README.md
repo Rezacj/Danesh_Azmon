@@ -44,3 +44,28 @@
 - **SQL Server**  
 
 ---
+
+## ⚙ پیش‌نیازها  
+- **ASP.NET Core SDK**  
+- **ASP.NET Core Runtime**
+
+---
+
+## 🔧 نصب و راه‌اندازی  
+
+1. کلون کردن ریپوزیتوری:  
+   ```bash
+   git clone https://github.com/Rezacj/Danesh_Azmon.git
+   
+   ```
+   ```bash
+   cd Danesh_Azmon
+   ```
+2. اعمال مایگریشن:  
+   ```bash
+   dotnet ef database update
+   ```
+3. اجرای برنامه:  
+   ```bash
+   dotnet run
+   ```
