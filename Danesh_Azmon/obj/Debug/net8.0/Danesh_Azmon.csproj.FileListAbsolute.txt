@@ -141,3 +141,4 @@ E:\Projects\Danesh_Azmon\Danesh_Azmon\obj\Debug\net8.0\refint\Danesh_Azmon.dll
 E:\Projects\Danesh_Azmon\Danesh_Azmon\obj\Debug\net8.0\Danesh_Azmon.pdb
 E:\Projects\Danesh_Azmon\Danesh_Azmon\obj\Debug\net8.0\Danesh_Azmon.genruntimeconfig.cache
 E:\Projects\Danesh_Azmon\Danesh_Azmon\obj\Debug\net8.0\ref\Danesh_Azmon.dll
+E:\Projects\Danesh_Azmon\Danesh_Azmon\obj\Debug\net8.0\Danesh_Azmon.sourcelink.json

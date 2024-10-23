@@ -1,4 +1,4 @@
-using Danesh_Azmon.Models;
+﻿using Danesh_Azmon.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -15,7 +15,17 @@ namespace Danesh_Azmon.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            if (User.Identity.IsAuthenticated)
+            {
+                // کاربر قبلاً لاگین کرده است، هدایت به داشبورد
+                if (User.IsInRole("student"))
+                    return RedirectToPage("/Student/Index");
+                else
+                    return RedirectToPage("/Teacher/Index");
+            }
+
+            return View(); // نمایش فرم لاگین در صورتی که کاربر لاگین نشده باشد
+           
         }
 
         public IActionResult Privacy()

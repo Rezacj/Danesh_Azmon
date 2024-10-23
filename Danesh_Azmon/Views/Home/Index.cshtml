@@ -1,8 +1,63 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model Danesh_Azmon.Models.IO.IO_User_Login
+@{
+    ViewData["Title"] = "ورود";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="fa-IR" dir="rtl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/css/style-log-in.css" rel="stylesheet" />
+    <script src="jquery-3.7.1.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.7.1.min.js"
+            integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs"
+            crossorigin="anonymous"></script>
+    
+</head>
+<body>
+    <div>
+        <div class="header-wraper">
+            <div class="header">
+                <h1 class="title">دانش آزمون</h1>
+                <img src="/images/leaf.svg" alt="" class="input-icon-header" />
+            </div>
+        </div>
+        <form asp-controller="Account" asp-action="Login" method="post">
+            <div class="log-in__wrapper">
+                <div class="input-wrapper">
+                    <input
+                        asp-for="NationalCode"
+                        type="text"
+                           placeholder="کد ملی"
+                           class="input-number"
+                           id="n0"
+                           maxlength="10"
+                           autocomplete="off"
+                           inputmode="numeric" />
+                    <img src="/images/person.svg" alt="" class="input-icon" />
+                </div>
+                <div class="input-wrapper-password">
+                    <input
+                        asp-for="Password"
+                        type="text"
+                           placeholder="رمز عبور"
+                           class="input-number"
+                           id="n0"
+                           autocomplete="off"
+                           inputmode="numeric" />
+                    <img src="/images/key.svg" alt="" class="input-icon" />
+                </div>
+                <input type="submit" class="sned-code__btn" value="ورود" />
+                <div class="footer">
+                    <label for="rem-me1" id="lbl__rem-me">من را به خاطر بسپارید</label>
+                    <input asp-for="RemmeberMe" type="checkbox"  id="rem-me1" />
+                </div>
+            </div>
+        </form>
+      
+       <script src="~/js/script-log-in.js"></script>
+    </div>
+
+</body>
+</html>

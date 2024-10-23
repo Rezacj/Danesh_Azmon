@@ -9,8 +9,28 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\wwwroot\\css\\style-log-in.css",
+      "PackagePath": "staticwebassets\\css\\style-log-in.css"
+    },
+    {
       "Id": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\wwwroot\\images\\key.svg",
+      "PackagePath": "staticwebassets\\images\\key.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\wwwroot\\images\\leaf.svg",
+      "PackagePath": "staticwebassets\\images\\leaf.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\wwwroot\\images\\person.svg",
+      "PackagePath": "staticwebassets\\images\\person.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\wwwroot\\js\\script-log-in.js",
+      "PackagePath": "staticwebassets\\js\\script-log-in.js"
     },
     {
       "Id": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\wwwroot\\js\\site.js",

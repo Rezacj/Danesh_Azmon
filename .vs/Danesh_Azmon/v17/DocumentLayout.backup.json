@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\Projects\\Danesh_Azmon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\danesh_azmon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\danesh_azmon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\pages\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\pages\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\pages\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\pages\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\pages\\shared\\layout_teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\pages\\shared\\layout_teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|e:\\projects\\danesh_azmon\\danesh_azmon\\pages\\shared\\layout_student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A274659E-9C97-4B0B-BC77-26A4C11D4880}|Danesh_Azmon\\Danesh_Azmon.csproj|solutionrelative:danesh_azmon\\pages\\shared\\layout_student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Danesh_Azmon\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:45:56.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Danesh_Azmon\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:33:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Pages\\Teacher\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "Danesh_Azmon\\Pages\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:18:54.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Layout_Teacher.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Shared\\Layout_Teacher.cshtml",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Pages\\Shared\\Layout_Teacher.cshtml",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Shared\\Layout_Teacher.cshtml",
+              "RelativeToolTip": "Danesh_Azmon\\Pages\\Shared\\Layout_Teacher.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:17:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Layout_Student.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Shared\\Layout_Student.cshtml",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Pages\\Shared\\Layout_Student.cshtml",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Shared\\Layout_Student.cshtml",
+              "RelativeToolTip": "Danesh_Azmon\\Pages\\Shared\\Layout_Student.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:16:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Pages\\Student\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Pages\\Student\\Index.cshtml",
+              "RelativeToolTip": "Danesh_Azmon\\Pages\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T21:59:32.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Program.cs",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Program.cs",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Program.cs",
+              "RelativeToolTip": "Danesh_Azmon\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:06:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Danesh_Azmon",
-              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Danesh_Azmon.csproj",
-              "RelativeDocumentMoniker": "Danesh_Azmon\\Danesh_Azmon.csproj",
-              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Danesh_Azmon.csproj",
-              "RelativeToolTip": "Danesh_Azmon\\Danesh_Azmon.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-21T13:41:19.149Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Danesh_Azmon\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\Danesh_Azmon\\Danesh_Azmon\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Danesh_Azmon\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:12:32.802Z",
               "EditorCaption": ""
             }
           ]
